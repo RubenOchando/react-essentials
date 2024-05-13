@@ -7,7 +7,7 @@ import Card from './components/Card/Card.jsx';
 import TabButton from './components/TabButton.jsx';
 import Header from './components/Header/Header.jsx';
 import CoreConcept from './components/CoreConcept.jsx';
-import Todo from './components/Todo/Todo.jsx';
+
 import { useState } from 'react';
 import { CORE_CONCEPTS, EXAMPLES } from './data.js';
 
